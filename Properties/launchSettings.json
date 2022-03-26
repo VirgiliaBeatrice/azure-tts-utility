@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "tts-robosoft": {
+      "commandName": "Project",
+      "commandLineArgs": "-i config.json -a test.mp3 -t content.txt"
+    }
+  }
+}
