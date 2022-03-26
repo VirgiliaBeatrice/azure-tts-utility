@@ -1,6 +1,4 @@
-# Project Title
-
-azure-tts-utility
+# azure-tts-utility
 
 ## Description
 
