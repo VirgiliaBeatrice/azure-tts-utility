@@ -12,7 +12,7 @@ Windows concole application
 
 ### Installing
 
-Download from [Releases]()
+Download from [Releases](https://github.com/VirgiliaBeatrice/azure-tts-utility/releases/)
 
 ### Executing program
 
@@ -24,6 +24,14 @@ azure-tts-utility -i "<your-identity-file>" -a "<target-audio-file>" -t "<conten
 
 ```
 azure-tts-utility -h
+```
+
+### Identity File Structure
+```config.json
+{
+   "Key": "<your-subscription-key>",
+   "Location": "<your-subsription-location>"
+}
 ```
 
 ## Authors
